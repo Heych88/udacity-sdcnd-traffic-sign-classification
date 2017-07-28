@@ -1,8 +1,7 @@
 # Traffic Sign Classification
 
 This repository containing both OpenCV and a Tensorflow Convolutional Neural Network (CNN) used to train and validate 
-a model that can classify traffic sign images using the [German Traffic Sign Dataset]
-(http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) for project 2 of the [Self-Driving Car Nanodegree 
+a model that can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) for project 2 of the [Self-Driving Car Nanodegree 
 program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) by Udacity.
 
 The Udacity project repository can be found [here](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project).
